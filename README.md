@@ -1,4 +1,4 @@
-# InteraccionPersona-Ordenador
+# Interacción Persona-Ordenador
 Práctica de la Asignatura Interacción Persona-Ordenador. Creación de una aplicación de escritorio de una clínica médica
 
 OBJETIVO
